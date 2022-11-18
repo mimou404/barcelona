@@ -1,0 +1,37 @@
+body{
+	background-image: url(img/3.jpg);
+	background-size: 100% 100%;
+    height: 100vh;
+	width:100%;
+}
+h1{
+	font-style: italic;
+	text-decoration: underline #EDD977;
+	font-size:60px;
+	color:#EDD977;
+}
+a:link,a:visited{
+	font-style: italic;
+	color:#EDD977;
+}
+a:hover,a:active{
+	background-color:;
+	color: yellow;
+	transition:color 2s;
+	color:red;
+}
+h3{
+text-align: left;
+	padding: 10px 20px;
+	margin-top:150px;
+	border-style: double;
+	border-color:#EDD977;
+	border-height: 1px;
+	display: inline-block;
+	border-radius: 20px;
+	text-align: center;
+}
+h3{
+
+	font-size: 250%;
+}

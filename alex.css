@@ -1,0 +1,26 @@
+html{
+	background-image: url(img/11.jpg);
+	background-size: 100% 100%;
+    height: 100vh;
+	width:100%;
+}
+h1{
+	color: #EDD977;
+	font-size: 70px;
+	font-style: italic;
+	text-decoration: underline#EDD977 ;
+}
+h3{
+	color: #EDD977;
+	font-size: 45px;
+	font-style: italic;
+	text-decoration: underline#EDD977 ;
+}
+li{
+	color: #EDD977;
+	font-size: 30px;
+}
+a{
+	color: #EDD977;
+	font-size: 20px;
+}
